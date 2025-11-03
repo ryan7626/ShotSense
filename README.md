@@ -34,7 +34,7 @@ Built entirely with **Swift**, **SwiftUI**, and **CoreML**, ShotSense demonstrat
 - **Language:** Swift (SwiftUI, Combine)  
 - **Frameworks:** CoreML, Vision, AVFoundation, CoreImage  
 - **Model Conversion (future):** PyTorch → CoreMLTools pipeline  
-- **Development Environment:** macOS + VSCode  
+- **Development Environment:** macOS + Xcode  
 - **Version Control:** Git & GitHub  
 
 ---
@@ -77,7 +77,7 @@ This ensures ShotSense remains **fast, private, and responsive** — even offlin
 ## Setup & Run  
 
 **Requirements:**  
-- macOS with VSCode 15+  
+- macOS with Xcode 15+  
 - iOS 17+ target  
 - Swift 5.9+  
 
@@ -87,5 +87,5 @@ This ensures ShotSense remains **fast, private, and responsive** — even offlin
 git clone https://github.com/yourusername/shotsense-ios.git
 cd shotsense-ios
 
-# Open project in VSCode
-open ShotSense.VSCodeproj
+# Open project in Xcode
+open ShotSense.xcodeproj
